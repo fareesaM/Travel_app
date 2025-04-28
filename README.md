@@ -1,12 +1,39 @@
-# React + Vite
+# 🌍 Travel Planner App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic, Google Maps-powered travel planner where users can:
+- Select a destination (Google Places Autocomplete)
+- Specify trip duration and companions
+- View personalized trip dashboard with map, activities, accommodations, and flights
 
-Currently, two official plugins are available:
+Built with **React**, **Framer Motion**, **TailwindCSS**, and **Google Maps JavaScript API**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔍 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Google Places Autocomplete** for seamless destination search
+- **Dynamic Trip Dashboard** based on selected destination
+- **Country-specific Activities** generated dynamically
+- **Static Map Preview** via Google Static Maps API
+- **Flight Details & Accommodations** mock data integration
+- **Responsive Design** optimized for all screen sizes
+- **Animated Transitions** using Framer Motion
+
+---
+
+## 🛠️ Tech Stack
+
+- React (Vite)
+- TailwindCSS
+- Framer Motion
+- @react-google-maps/api
+- Google Maps JavaScript API (Places + Static Maps)
+
+---
+
+## 📚 Installation
+
+```bash
+git clone https://github.com/your-username/travel-planner-app.git
+cd travel-planner-app
+npm install
