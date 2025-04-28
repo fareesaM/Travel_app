@@ -37,3 +37,20 @@ Built with **React**, **Framer Motion**, **TailwindCSS**, and **Google Maps Java
 git clone https://github.com/your-username/travel-planner-app.git
 cd travel-planner-app
 npm install
+
+# 🌍 Travel Planner App
+
+...
+
+## 🖼️ Screenshots
+
+### 1. Onboarding Screen
+![Onboarding Screen](./screenshots/Screenshot_2025-04-28_at_10.28.56_PM.png)
+
+### 2. Destination Search
+![Destination Search](./screenshots/Screenshot_2025-04-28_at_10.29.06_PM.png)
+
+### 3. Dashboard View
+![Dashboard View](./screenshots/Screenshot_2025-04-28_at_10.33.26_PM.png)
+
+---
