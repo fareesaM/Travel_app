@@ -33,7 +33,6 @@ Built with **React**, **Framer Motion**, **TailwindCSS**, and **Google Maps Java
 
 ## 📚 Installation
 
-```bash
 git clone https://github.com/your-username/travel-planner-app.git
 cd travel-planner-app
 npm install
