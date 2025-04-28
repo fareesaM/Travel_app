@@ -1,5 +1,4 @@
 # 🌍 Travel Planner App
-![Travel App Screenshot](https://raw.githubusercontent.com/fareesaM/Travel_app/main/Screenshot_2025-04-28_at_10.28.56_PM.png)
 
 A dynamic, Google Maps-powered travel planner where users can:
 - Select a destination (Google Places Autocomplete)
@@ -46,6 +45,7 @@ npm install
 ## 🖼️ Screenshots
 
 ### 1. Onboarding Screen
+![Travel App Screenshot](https://raw.githubusercontent.com/fareesaM/Travel_app/main/Screenshot_2025-04-28_at_10.28.56_PM.png)
 ![Onboarding Screen](https://raw.githubusercontent.com/fareesaM/Travel_app/main/Screenshot_2025-04-28_at_10.28.56_PM.png)
 
 ### 2. Destination Search
