@@ -46,12 +46,12 @@ npm install
 ## 🖼️ Screenshots
 
 ### 1. Onboarding Screen
-![Onboarding Screen](./Screenshot_2025-04-28_at_10.28.56_PM.png)
+![Onboarding Screen](https://raw.githubusercontent.com/fareesaM/Travel_app/main/Screenshot_2025-04-28_at_10.28.56_PM.png)
 
 ### 2. Destination Search
-![Destination Search](https://github.com/fareesaM/Travel_app/blob/main/Screenshot_2025-04-28_at_10.28.56_PM.png)
+![Destination Search](https://raw.githubusercontent.com/fareesaM/Travel_app/main/Screenshot_2025-04-28_at_10.28.56_PM.png)
 
 ### 3. Dashboard View
-![Dashboard View](https://github.com/fareesaM/Travel_app/blob/main/Screenshot_2025-04-28_at_10.28.56_PM.png)
+![Dashboard View](https://raw.githubusercontent.com/fareesaM/Travel_app/main/Screenshot_2025-04-28_at_10.28.56_PM.png)
 
 ---
